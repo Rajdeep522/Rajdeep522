@@ -2,10 +2,6 @@
 Hii! I am Rajdeep Debnath. Enthusiastic for software development💻 and AI technologies🧑‍💻🧑‍💻.           <br><br><br>Happy Coding.💻💻💻<br>  
 
 
-
-
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100075100520204) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/rajdeep-debnath-7ab90628b) 
 
