@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hii! I am Rajdeep Debnath. Enthusiastic for software development💻 and AI technologies🧑‍💻🧑‍💻.
+👋 Hii! I am Rajdeep Debnath. <br>
+Enthusiastic for software development💻 and AI technologies🧑‍💻🧑‍💻.
 <br><br><br>Happy Coding.💻💻💻<br>
 
 ## 🌐 Socials:
