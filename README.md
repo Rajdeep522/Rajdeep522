@@ -37,9 +37,6 @@ Hii! I am Rajdeep Debnath. Enthusiastic for software development💻 and AI tech
 
 
 
-
-
-
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeep522&show_icons=true&locale=en&layout=compact" alt="rajdeep522" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep522&show_icons=true&locale=en" alt="rajdeep522" /></p>
