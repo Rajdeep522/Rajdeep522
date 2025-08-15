@@ -5,10 +5,10 @@
 🧠 Fascinated by Deep Learning, NLP, and the future of intelligent automation.
 💻 Currently working with: Python | TensorFlow | PyTorch | Scikit-learn
 🌱 I’m currently exploring Large Language Models (LLMs) and their applications.
-📫 Reach me on LinkedIn: [Your LinkedIn Profile URL]
+📫 Reach me on LinkedIn: www.linkedin.com/in/rajdeep-debnath1
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100075100520204) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajdeepdebnath42) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Rajdeep1Debnath?t=0vU3246iGpHEitLD29CaTQ&s=08)   
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100075100520204) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajdeep-debnath1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Rajdeep1Debnath?t=0vU3246iGpHEitLD29CaTQ&s=08)   
 
 # 💻 Tech Stack:
 <br>
